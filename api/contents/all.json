@@ -1,0 +1,29 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2025-11-27T21:52:55.117496Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2025-11-27T21:52:55.117496Z",
+      "mimetype": null,
+      "name": "activite_son_et_musique.ipynb",
+      "path": "activite_son_et_musique.ipynb",
+      "size": 39956,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2025-11-27T21:52:55.117496Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2025-11-27T21:52:55.117496Z",
+  "mimetype": null,
+  "name": "",
+  "path": "",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}
